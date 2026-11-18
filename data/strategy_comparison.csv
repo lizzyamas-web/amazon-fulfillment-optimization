@@ -1,0 +1,6 @@
+strategy,workers_per_shift,expedited_share_pct,daily_cost_usd,on_time_pct
+Balanced (50/50),50,0,8250.0,92.11
+Equity (min normalized gap),40,5,6837.3,75.57
+Cost priority,30,0,4950.0,53.43
+On-time priority,50,15,8961.9,99.4
+Weighted (60% cost / 40% service),30,0,4950.0,53.43
