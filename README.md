@@ -51,4 +51,4 @@ Synthetic throughput-to-service proxy, not order-level deadline modeling; simpli
 - Amazon operations research job posting: https://amazon.jobs/en/jobs/3203841/applied-scientist-operations-research-modeling-and-optimization-mop
 
 ## Status
-Part 1 complete. GitHub publishing and a real commit history must be performed in your GitHub account.
+Part 1 complete. The optimization engine, Pareto frontier analysis, visualizations, and documentation are available in this repository.
